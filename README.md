@@ -4,8 +4,6 @@ I'm [Victor Ribeiro][about], a former [3D artist][3d artist] now a software engi
 
 See you around!
 
-P.s.: you can talk to me at victorqribeiro **AT** gmail **DOT** com
-
 [about]: https://victorribeiro.com
 [youtube]: https://www.youtube.com/victorribeirocom
 [games]: https://victorqribeiro.itch.io
