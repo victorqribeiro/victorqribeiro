@@ -1,6 +1,6 @@
 # Hello there
 
-I'm [Victor Ribeiro][about], a former [3D artist][3d artist] now a software engineer. I have a small [you tube][youtube] channel where I share what I'm working on at the moment. From time to time I publish some [games][games] (although Google removed all my games from Google Play for some ADs misconfiguration that I still haven't fixed yet). There's a lot of cool projects and experiments in my respository, I hope you find them fun | useful | interesting. Professional profile at [Linkedin][linkedin].
+I'm [Victor Ribeiro][about], a former [3D artist][3d artist] now a software engineer. I have a small [you tube][youtube] channel where I share what I'm working on at the moment. From time to time I publish some games on [Google Play][android] and [Itch.io][itchio]. There's a lot of cool projects and experiments in my respository, I hope you find them fun | useful | interesting. Professional profile at [Linkedin][linkedin].
 
 See you around!
 
@@ -8,6 +8,7 @@ See you around!
 
 [about]: https://victorribeiro.com
 [youtube]: https://www.youtube.com/victorribeirocom
-[games]: https://victorqribeiro.itch.io
+[itchio]: https://victorqribeiro.itch.io
+[android]: https://play.google.com/store/apps/developer?id=Victor+Queiroz+Ribeiro
 [3d artist]: https://victorribeiro.cgsociety.org
 [linkedin]: https://www.linkedin.com/in/victorqribeiro
