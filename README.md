@@ -4,8 +4,7 @@ I'm [Victor Ribeiro][about], a former [3D artist][3d artist] now a software engi
 
 See you around!
 
-![Pageviews dark](https://victorribeiro.com/imageCounter/index.php?theme=dark&v=1#gh-dark-mode-only)
-![Pageviews light](https://victorribeiro.com/imageCounter/index.php?theme=light&v=1#gh-light-mode-only)
+![Pageviews light](https://victorribeiro.com/imageCounter/index.php?theme=light&v=1)
 
 [about]: https://victorribeiro.com
 [youtube]: https://www.youtube.com/victorribeirocom
