@@ -2,7 +2,7 @@
 
 I'm [Victor Ribeiro][about], a former [3D artist][3d artist] now a software engineer. I have a small [you tube][youtube] channel where I share what I'm working on at the moment. From time to time I publish some games on [Google Play][android] and [Itch.io][itchio]. There's a lot of cool projects and experiments in my respository, I hope you find them fun | useful | interesting. Professional profile at [Linkedin][linkedin].
 
-[My latest video](https://www.youtube.com/watch?v=cvyrfPUpyp0)
+[My latest video](https://www.youtube.com/watch?v=otz7sv_wpFA)
 
 See you around!
 
